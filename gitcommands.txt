@@ -1,0 +1,7 @@
+init 
+add --all
+clone
+merge
+branch
+checkout <branchname>
+... 
